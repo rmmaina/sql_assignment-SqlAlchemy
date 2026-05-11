@@ -62,3 +62,5 @@ sql_assignment/
     ├── instance/
     │   └── database.db
 
+#AUTHOR
+Robert Maina
